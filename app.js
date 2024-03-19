@@ -9,3 +9,8 @@ const isRegister = (user) => {
 const getme = (user) => {
     return user;
 };
+
+const sajjad = () => {
+    return false;
+};
+
