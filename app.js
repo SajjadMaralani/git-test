@@ -14,3 +14,6 @@ const sajjad = () => {
     return false;
 };
 
+const setTicket = () => {
+    return false;
+};
